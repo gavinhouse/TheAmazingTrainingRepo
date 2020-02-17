@@ -1,1 +1,2 @@
-First Sample text
+First Sample text - this is from the master branch
+
